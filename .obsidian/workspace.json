@@ -11,10 +11,10 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "02085196d74528b2",
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +179,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
-    "Open AI.md",
+    "rag/vector/test.md",
+    "rag/lib/test.md",
+    "rag/onto_graph/test.md",
+    "rag/knowledge_graph/test.md",
+    "rag/__pycache__/test.md",
+    "rag/vector",
+    "rag/onto_graph",
+    "rag/lib",
+    "rag/knowledge_graph",
+    "rag/coreandgraph_query.ipynb",
+    "rag/coreandgraph_engine_maker.ipynb",
+    "rag/__pycache__",
+    "rag",
     "README.md",
+    "test.md",
+    "Open AI.md",
     "word.md",
     "syllable.md",
     "phraseme.md",
