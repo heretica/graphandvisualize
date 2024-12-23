@@ -1,8 +1,9 @@
-# Coreandgraph
-Une nouvelle manière de gouverner les données. 
+# Graphandvisualize
 
-## Installer `coreandgraph` 
+Un graphe de connaissance représentant une vision partagée de la data visualisation.
 
-1. Forker ce repo
+## Participer à `graphandvisualize` 
+
+1. Demander à l'administrateur 
 2. Lire [documente-marcel](https://arthursrz.github.io/documente-marcel/)
 3. Il n'y a pas de 3ème étape si la documentation ☝️ est à la hauteur des ambitions des concepteurs de `coreandgraph`, 
