@@ -183,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "f846e0779d2eae35",
   "lastOpenFiles": [
-    "Open AI.md",
     "README.md",
+    "test.md",
+    "Open AI.md",
     "word.md",
     "syllable.md",
     "phraseme.md",
