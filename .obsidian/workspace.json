@@ -11,14 +11,10 @@
             "id": "3044ff1bd9037c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rag/pomme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "pomme"
+              "title": "New tab"
             }
           }
         ]
@@ -183,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3044ff1bd9037c17",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
     "rag/pomme.md",
     "rag/hello.md",
