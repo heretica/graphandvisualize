@@ -11,13 +11,10 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -184,20 +181,20 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
-    "README.md",
-    "test.md",
-    "rag/coreandgraph_query.ipynb",
     "rag/vector/test.md",
     "rag/vector",
-    "rag/coreandgraph_engine_maker.ipynb",
-    "rag/lib/test.md",
-    "rag/lib",
-    "rag/__pycache__/test.md",
-    "rag/__pycache__",
     "rag/onto_graph/test.md",
     "rag/onto_graph",
+    "rag/lib/test.md",
+    "rag/lib",
     "rag/knowledge_graph/test.md",
     "rag/knowledge_graph",
+    "rag/coreandgraph_query.ipynb",
+    "rag/coreandgraph_engine_maker.ipynb",
+    "README.md",
+    "test.md",
+    "rag/__pycache__/test.md",
+    "rag/__pycache__",
     "rag",
     "Open AI.md",
     "word.md",
