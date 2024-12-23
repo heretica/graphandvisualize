@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "543ff7cdf1efd937",
+    "type": "split",
+    "children": [
+      {
+        "id": "b220c177de780d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e73feb7d30285b0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8451ca47a9bcd62a",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ad1c3b7f732e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f846e0779d2eae35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24c4a94d71d2b012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5b3d28c276f84f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02085196d74528b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6266de84edf59bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c46785d3254351e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Les accents éàë$.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Les accents éàë$"
+            }
+          },
+          {
+            "id": "04f1fec42244ee3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Les accents éàë$.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Les accents éàë$"
+            }
+          },
+          {
+            "id": "8d021182f06cb74c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2dc3d4b9d8676613",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Les accents éàë$.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Les accents éàë$"
+            }
+          },
+          {
+            "id": "7067aff2014fae2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "05f78657c46db45d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e73feb7d30285b0a",
+  "lastOpenFiles": [
+    "Open AI.md",
+    "README.md",
+    "word.md",
+    "syllable.md",
+    "phraseme.md",
+    "non-compositional meaning.md",
+    "New file.md",
+    "morpheme.md",
+    "lexeme.md",
+    "Les accents éàë$.md",
+    "Open Models.md",
+    "Open Data.md",
+    "Open Software.md",
+    "Open Science.md",
+    "Open Hardware.md",
+    "Open Education.md"
+  ]
+}

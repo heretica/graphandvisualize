@@ -1,0 +1,11 @@
+{
+  "entityIdKey": "wikidata entity id",
+  "internalLinkPrefix": "${label}",
+  "ignoreCategories": true,
+  "ignoreWikipediaPages": true,
+  "ignoreIDs": true,
+  "ignorePropertiesWithTimeRanges": true,
+  "overwriteExistingProperties": false,
+  "blockedProperties": [],
+  "allowedProperties": []
+}
