@@ -11,4 +11,4 @@ Un graphe de connaissance représentant une vision partagée de la data visualis
 
 ## Finalité de `graphandvisualize`
 
-Ce graphe a pour vocation d'assiste
+Ce graphe a pour vocation de servir de structure pour générer du contenu méthodologique. Ce contenu doit aider les data analysts, scientists et tout autre passionné des données, à identifier des forces entre des idées et les représenter sous forme de
