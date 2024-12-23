@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b220c177de780d76",
+        "id": "fa1a143b3313b6cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e73feb7d30285b0a",
+            "id": "3044ff1bd9037c17",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7067aff2014fae2e",
+  "active": "3044ff1bd9037c17",
   "lastOpenFiles": [
+    "rag/hello.md",
     "rag/vector/test.md",
     "rag/lib/test.md",
     "rag/onto_graph/test.md",
