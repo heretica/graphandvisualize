@@ -11,10 +11,13 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -166,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,23 +182,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f846e0779d2eae35",
+  "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "rag/knowledge_graph/index_store.json",
+    "rag/knowledge_graph/docstore.json",
+    "rag/knowledge_graph/image__vector_store.json",
+    "rag/knowledge_graph/default__vector_store.json",
+    "rag/knowledge_graph/graph_store.json",
+    "rag/vector/image__vector_store.json",
+    "rag/vector/default__vector_store.json",
+    "rag/vector/graph_store.json",
+    "rag/vector/index_store.json",
+    "rag/vector/docstore.json",
     "rag/requirements.txt.sb-b4d73687-dTIAY4",
-    "rag/requirements.txt.sb-b4d73687-OmLiqu",
-    "rag/requirements.txt",
-    "requirements.txt.sb-b4d73687-Xy5qop",
-    "requirements.txt",
-    "requirements.txt.doc",
     "rag/vector/test.md",
     "rag/onto_graph/test.md",
     "rag/lib/test.md",
     "rag/knowledge_graph/test.md",
-    "rag/vector",
-    "rag/onto_graph",
-    "rag/lib",
-    "rag/knowledge_graph",
-    "rag/coreandgraph_query.ipynb",
     "README.md",
     "test.md",
     "rag/__pycache__/test.md",
