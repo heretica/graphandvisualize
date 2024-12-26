@@ -182,6 +182,7 @@
   },
   "active": "f846e0779d2eae35",
   "lastOpenFiles": [
+    "rag/requirements.txt.sb-b4d73687-OmLiqu",
     "rag/requirements.txt",
     "requirements.txt.sb-b4d73687-Xy5qop",
     "requirements.txt",
@@ -196,7 +197,6 @@
     "rag/knowledge_graph",
     "rag/coreandgraph_query.ipynb",
     "rag/coreandgraph_engine_maker.ipynb",
-    "rag",
     "README.md",
     "test.md",
     "rag/__pycache__/test.md",
