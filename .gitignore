@@ -39,4 +39,4 @@ rag/
 .env
 
 # Ignore the virtual environment directory
-/venv/
+rag/venv/
