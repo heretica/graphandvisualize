@@ -1,0 +1,7 @@
+llama-index
+ipywidgets
+tqdm
+ipython
+huggingface-hub
+openai
+pyyaml
