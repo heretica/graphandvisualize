@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "02085196d74528b2",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "f846e0779d2eae35",
   "lastOpenFiles": [
     "rag/vector/test.md",
     "rag/onto_graph/test.md",
