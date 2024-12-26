@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 772.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
     "rag/onto_graph/image__vector_store.json",
     "rag/onto_graph/default__vector_store.json",
