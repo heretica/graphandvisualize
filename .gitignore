@@ -34,3 +34,9 @@ DS_Store
 
 # to exclude rag settings
 rag/
+
+#exclude venv files 
+.env
+
+# Ignore the virtual environment directory
+/venv/
