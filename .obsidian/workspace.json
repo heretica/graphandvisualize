@@ -13,11 +13,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": ".DS_Store",
+                "staged": false,
+                "hash": "2d67bea6735ce79adfa5f4d30425de0eb5401cd8"
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (.DS_Store)"
             }
           }
         ]
@@ -169,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 772.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
