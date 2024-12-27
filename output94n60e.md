@@ -30,6 +30,10 @@ En suivant cette méthodologie, vous pouvez créer un diagramme de corrélation 
 
 Pour concevoir un graphique de type réseau dans le cadre d'une recherche sur l'innovation technologique, nous allons suivre une méthodologie qui met en avant les connexions significatives entre des idées clés telles que la R&D, la disruption technologique, et l'adoption par les consommateurs. Voici comment procéder :
 
+
+
+
+
 ### Étape 1 : Identification des idées clés
 - **Nœuds principaux** : Définissez les idées principales qui seront représentées comme des nœuds dans le réseau. Dans ce cas, les nœuds incluront la Recherche et Développement (R&D), la disruption technologique, l'adoption par les consommateurs, le financement de l'innovation, et la réglementation.
 - **Sous-idées** : Identifiez des sous-idées ou concepts connexes qui peuvent enrichir le réseau, comme les partenariats stratégiques, les brevets, et les tendances du marché.

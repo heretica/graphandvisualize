@@ -26,6 +26,9 @@ Pour créer un diagramme de corrélation qui visualise les relations entre la cr
 
 En suivant cette méthodologie, vous pouvez créer un diagramme de corrélation efficace qui met en lumière les lignes de force entre la croissance économique, l'inflation, et les choix des consommateurs, facilitant ainsi une meilleure compréhension des dynamiques économiques et comportementales.
 
+
+
+
 ### Conception d'un Graphique de Réseau pour l'Innovation Technologique
 
 #### Introduction

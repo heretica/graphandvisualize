@@ -204,16 +204,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f846e0779d2eae35",
+  "active": "7fc0d508acc9b09c",
   "lastOpenFiles": [
+    "output94n60e.md",
+    "output74n49e.md",
     "OntoGraph94n60e.html",
     "knowledge_graph94n60e.html",
     "OntoGraph.html",
     "knowledge_graph.html",
     "OntoGraph74n49e.html",
     "knowledge_graph74n49e.html",
-    "output74n49e.md",
-    "output94n60e.md",
     "graph/métadonnées.md",
     "graph/utilisateur final.md",
     "rag/OntoGraph.html",
@@ -241,7 +241,6 @@
     "graph/datagraphic.md",
     "output",
     "untitled folder",
-    "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/venv/lib/python3.13/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",
