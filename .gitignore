@@ -38,5 +38,3 @@ rag/
 #exclude venv files 
 .env
 
-# Ignore the virtual environment directory
-rag/venv/
