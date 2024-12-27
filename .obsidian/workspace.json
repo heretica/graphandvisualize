@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7067aff2014fae2e",
+  "active": "e5cf079d17fc0a0b",
   "lastOpenFiles": [
-    "graph/Edward Tufte 1.md",
+    "graph/John Tukey.md",
+    "graph/Florence Nightingale.md",
+    "graph/dataviz.md",
+    "graph/Edward Tufte.md",
     "graph/Edward Tufte.md",
     "graph/utilisateur final.md",
     "graph/end-user.md",
-    "graph/John Tukey.md",
     "graph/nettoyage des données.md",
     "graph/spatial arrangement.md",
     "graph/statistiques descriptives.md",
@@ -245,8 +248,6 @@
     "graph/agent.md",
     "graph/sociotechnical system.md",
     "graph/computer interface.md",
-    "graph/Florence Nightingale.md",
-    "graph/dataviz.md",
     "graph/Interactivité.md",
     "graph/métadonnées.md",
     "graph/page layout.md",
