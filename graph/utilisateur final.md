@@ -1,5 +1,6 @@
 ---
 utilise: "[[dataviz]]"
+sujet à: "[[biais de perception]]"
 ---
 
 Réflexion à mener sur la figure de l'utilisateur dans le parcours par rapport aux données ? 
