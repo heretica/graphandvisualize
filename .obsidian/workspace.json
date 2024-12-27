@@ -4,28 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "b220c177de780d76",
-        "type": "tabs",
+        "id": "86fc243a606ef7fc",
+        "type": "split",
+        "dimension": 64.91228070175438,
         "children": [
           {
-            "id": "e73feb7d30285b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/dataviz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dataviz"
-            }
+            "id": "b220c177de780d76",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e73feb7d30285b0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "graph/dataviz.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "dataviz"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f7ce43d4c2a26354",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5cf079d17fc0a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "graph/data visualization.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "data visualization"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "f824f979dbbd1e55",
         "type": "tabs",
+        "dimension": 35.08771929824561,
         "children": [
           {
             "id": "b01b21f4ee9afe40",
@@ -202,6 +231,8 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/data visualization.md",
+    "graph/dataviz.md",
     "graph/utilisateur.md",
     "graph/Accessibilité.md",
     "graph/Dataviz Project.md",
@@ -236,9 +267,7 @@
     "rag/venv/lib/python3.13/site-packages/httpcore-1.0.7.dist-info/licenses/LICENSE.md",
     "rag/venv/lib/python3.13/site-packages/nltk-3.9.1.dist-info/README.md",
     "rag/venv/lib/python3.13/site-packages/nltk-3.9.1.dist-info/AUTHORS.md",
-    "rag/venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "rag/venv/lib/python3.13/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
-    "rag/venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-32x32.png",
