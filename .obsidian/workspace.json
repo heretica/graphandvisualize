@@ -185,6 +185,10 @@
   },
   "active": "f846e0779d2eae35",
   "lastOpenFiles": [
+    "output.md",
+    "putoutput.md",
+    "output",
+    "untitled folder",
     "rag/OntoGraph.html",
     "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/lib/vis-9.1.2/vis-network.css",
@@ -193,13 +197,10 @@
     "rag/lib/tom-select/tom-select.complete.min.js",
     "rag/lib/tom-select",
     "rag/lib/bindings/utils.js",
-    "rag/lib/bindings",
-    "rag/knowledge_graph.html",
     "graph/Données structurées.md",
     "graph/Dataviz Project.md",
     "graph/Choisir un type de visualisation.md",
     "graph/Base de données.md",
-    "rag/venv/lib/python3.13/site-packages/llama_index-0.12.8.dist-info/entry_points.txt",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/agent/react/templates/system_header_template.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/readers/file/xml/README.md",
@@ -228,7 +229,6 @@
     "rag/venv/lib/python3.13/site-packages/IPython/core/tests/2x2.png",
     "rag/venv/lib/python3.13/site-packages/IPython/core/tests/2x2.jpg",
     "rag/venv/lib/python3.13/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
-    "rag/venv/lib/python3.13/site-packages/zmq/backend/cffi/README.md",
-    "rag/venv/lib/python3.13/site-packages/pyzmq-26.2.0.dist-info/licenses/LICENSE.md"
+    "rag/venv/lib/python3.13/site-packages/zmq/backend/cffi/README.md"
   ]
 }
