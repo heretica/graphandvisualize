@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/Factfulness.md",
+                    "file": "graph/gap instinct.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Factfulness"
+                  "title": "gap instinct"
                 }
               }
             ]
@@ -229,12 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f846e0779d2eae35",
+  "active": "e5cf079d17fc0a0b",
   "lastOpenFiles": [
-    "graph/factfulness.md",
-    "graph/Factfulness.md",
-    "graph/perception.md",
     "graph/biais de perception.md",
+    "graph/gap instinct.md",
+    "graph/Factfulness.md",
+    "graph/factfulness.md",
+    "graph/perception.md",
     "graph/système socio-technique.md",
     "graph/utilisateur.md",
     "graph/Inférence.md",
@@ -256,7 +257,6 @@
     "graph/computer interface.md",
     "graph/Interactivité.md",
     "graph/métadonnées.md",
-    "graph/page layout.md",
     "OntoGraph.html",
     "knowledge_graph.html",
     "output",
