@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
+    "OntoGraph.html",
+    "knowledge_graph.html",
     "graph/Interactivité.md",
     "output.md",
     "putoutput.md",
@@ -198,7 +199,6 @@
     "rag/lib/tom-select/tom-select.css",
     "rag/lib/tom-select/tom-select.complete.min.js",
     "rag/lib/tom-select",
-    "rag/lib/bindings/utils.js",
     "graph/Données structurées.md",
     "graph/Dataviz Project.md",
     "graph/Choisir un type de visualisation.md",
@@ -229,7 +229,6 @@
     "rag/venv/share/jupyter/kernels/python3/logo-64x64.png",
     "rag/venv/share/jupyter/kernels/python3/logo-32x32.png",
     "rag/venv/lib/python3.13/site-packages/IPython/core/tests/2x2.png",
-    "rag/venv/lib/python3.13/site-packages/IPython/core/tests/2x2.jpg",
-    "rag/venv/lib/python3.13/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md"
+    "rag/venv/lib/python3.13/site-packages/IPython/core/tests/2x2.jpg"
   ]
 }
