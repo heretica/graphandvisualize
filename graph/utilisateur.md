@@ -6,3 +6,4 @@ part of:
 Wikidata property: used by
 uses: "[[computer interface]]"
 ---
+#concept
