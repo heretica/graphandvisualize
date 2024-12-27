@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/dataviz.md",
+                    "file": "graph/utilisateur final.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "dataviz"
+                  "title": "utilisateur final"
                 }
               }
             ]
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,14 +231,18 @@
   },
   "active": "e5cf079d17fc0a0b",
   "lastOpenFiles": [
-    "graph/datagraphic.md",
-    "graph/datagraphic.md",
-    "graph/dataviz.md",
+    "graph/utilisateur.md",
+    "graph/utilisateur final.md",
+    "graph/agent.md",
+    "graph/sociotechnical system.md",
+    "graph/computer interface.md",
     "graph/Florence Nightingale.md",
+    "graph/dataviz.md",
+    "graph/datagraphic.md",
+    "graph/datagraphic.md",
     "graph/Interactivité.md",
     "graph/métadonnées.md",
     "graph/John Tukey.md",
-    "graph/utilisateur final.md",
     "graph/end-user.md",
     "graph/page layout.md",
     "graph/spatial arrangement.md",
@@ -262,9 +267,6 @@
     "rag/lib/tom-select/tom-select.css",
     "rag/lib/tom-select/tom-select.complete.min.js",
     "graph/Données structurées.md",
-    "graph/Choisir un type de visualisation.md",
-    "graph/Base de données.md",
-    "rag/venv/lib/python3.13/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
     "rag/venv/lib/python3.13/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",

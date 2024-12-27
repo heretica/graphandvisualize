@@ -1,6 +1,6 @@
 ---
 subclass of:
-  - "[[user]]"
+  - "[[utilisateur]]"
 different from: "[[Endverbraucher]]"
 uses: "[[dataviz]]"
 ---
