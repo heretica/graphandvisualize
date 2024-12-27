@@ -4,6 +4,7 @@ C'est une manière de rendre accessible des données à un public varié.
 Cela permet aussi de faciliter la prise de décision. 
 
 # Liste de concepts
+
 ```dataview
 LIST 
 FROM #concept

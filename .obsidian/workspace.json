@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/Accessibilité.md",
+                "file": "graph/dataviz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accessibilité"
+              "title": "dataviz"
             }
           }
         ]
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "02085196d74528b2",
@@ -202,6 +202,8 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/utilisateur.md",
+    "graph/Accessibilité.md",
     "graph/Dataviz Project.md",
     "OntoGraph.html",
     "knowledge_graph.html",
@@ -237,7 +239,6 @@
     "rag/venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "rag/venv/lib/python3.13/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
     "rag/venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
-    "rag/venv/lib/python3.13/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.md",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-32x32.png",
