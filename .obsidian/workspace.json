@@ -11,14 +11,14 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": false,
-                "hash": "2d67bea6735ce79adfa5f4d30425de0eb5401cd8"
+                "file": "graph/Interactivité.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.DS_Store)"
+              "icon": "lucide-file",
+              "title": "Interactivité"
             }
           }
         ]
@@ -183,8 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7067aff2014fae2e",
+  "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/Données structurées.md",
+    "graph/Dataviz Project.md",
+    "graph/Choisir un type de visualisation.md",
+    "graph/Base de données.md",
     "rag/venv/lib/python3.13/site-packages/llama_index-0.12.8.dist-info/entry_points.txt",
     "rag/venv/lib/python3.13/site-packages/llama_index-0.12.8.dist-info/WHEEL",
     "rag/venv/lib/python3.13/site-packages/llama_index-0.12.8.dist-info/REQUESTED",
@@ -195,7 +199,6 @@
     "rag/venv/lib/python3.13/site-packages/llama_index-0.12.8.dist-info",
     "rag/venv/lib/python3.13/site-packages/llama_index_question_gen_openai-0.3.0.dist-info/WHEEL",
     "rag/venv/lib/python3.13/site-packages/llama_index_question_gen_openai-0.3.0.dist-info/RECORD",
-    "rag/venv/lib/python3.13/site-packages/llama_index_question_gen_openai-0.3.0.dist-info/METADATA",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/agent/react/templates/system_header_template.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/readers/file/xml/README.md",
@@ -226,9 +229,6 @@
     "rag/venv/lib/python3.13/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
     "rag/venv/lib/python3.13/site-packages/zmq/backend/cffi/README.md",
     "rag/venv/lib/python3.13/site-packages/pyzmq-26.2.0.dist-info/licenses/LICENSE.md",
-    "rag/vector/test.md",
-    "rag/onto_graph/test.md",
-    "rag/lib/test.md",
-    "rag/knowledge_graph/test.md"
+    "rag/vector/test.md"
   ]
 }
