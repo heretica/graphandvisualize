@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/Florence Nightingale.md",
+                    "file": "graph/end-user.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Florence Nightingale"
+                  "title": "end-user"
                 }
               }
             ]
@@ -231,6 +231,9 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/utilisateur.md",
+    "graph/end-user.md",
+    "graph/Florence Nightingale.md",
     "graph/Interactivité.md",
     "graph/Interactivité.md",
     "datagraphic.md",
@@ -241,13 +244,11 @@
     "graph/dataviz.md",
     "graph/data visualization.md",
     "graph/information visualization.md",
-    "graph/Florence Nightingale.md",
     "graph/Dataviz Project.md",
     "graph/John Tukey.md",
     "graph/Edward Tufte.md",
     "graph/Charles Joseph Minard.md",
     "William Playfair.md",
-    "graph/utilisateur.md",
     "graph/Accessibilité.md",
     "OntoGraph.html",
     "knowledge_graph.html",
@@ -266,7 +267,6 @@
     "graph/Base de données.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
     "rag/venv/lib/python3.13/site-packages/llama_index/core/agent/react/templates/system_header_template.md",
-    "rag/venv/lib/python3.13/site-packages/llama_index/readers/file/xml/README.md",
     "rag/venv/lib/python3.13/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "rag/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",
