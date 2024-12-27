@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/utilisateur.md",
+                    "file": "graph/factfullness.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "utilisateur"
+                  "title": "factfullness"
                 }
               }
             ]
@@ -231,6 +231,11 @@
   },
   "active": "e5cf079d17fc0a0b",
   "lastOpenFiles": [
+    "graph/perception.md",
+    "graph/factfullness.md",
+    "graph/biais de perception.md",
+    "graph/système socio-technique.md",
+    "graph/utilisateur.md",
     "graph/Inférence.md",
     "graph/Florence Nightingale.md",
     "graph/base de données.md",
@@ -244,19 +249,14 @@
     "graph/spatial arrangement.md",
     "graph/statistiques descriptives.md",
     "graph/traitement des données.md",
-    "graph/utilisateur.md",
     "graph/accessibilité.md",
     "graph/datagraphic.md",
     "graph/agent.md",
-    "graph/sociotechnical system.md",
     "graph/computer interface.md",
     "graph/Interactivité.md",
     "graph/métadonnées.md",
     "graph/page layout.md",
     "graph/Interactive data visualization.md",
-    "graph/data visualization.md",
-    "graph/information visualization.md",
-    "graph/Dataviz Project.md",
     "OntoGraph.html",
     "knowledge_graph.html",
     "output",

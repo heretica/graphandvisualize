@@ -1,7 +1,7 @@
 ---
 sous-classe de: "[[agent]]"
 partie de:
-  - "[[sociotechnical system]]"
+  - "[[système socio-technique]]"
 utilise: "[[computer interface]]"
 ---
 #concept
