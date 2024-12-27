@@ -34,6 +34,7 @@ Pour concevoir un graphique de type réseau dans le cadre d'une recherche sur l'
 
 
 
+
 ### Étape 1 : Identification des idées clés
 - **Nœuds principaux** : Définissez les idées principales qui seront représentées comme des nœuds dans le réseau. Dans ce cas, les nœuds incluront la Recherche et Développement (R&D), la disruption technologique, l'adoption par les consommateurs, le financement de l'innovation, et la réglementation.
 - **Sous-idées** : Identifiez des sous-idées ou concepts connexes qui peuvent enrichir le réseau, comme les partenariats stratégiques, les brevets, et les tendances du marché.
