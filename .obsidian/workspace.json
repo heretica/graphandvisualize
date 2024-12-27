@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/utilisateur final.md",
+                    "file": "graph/métadonnées.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "utilisateur final"
+                  "title": "métadonnées"
                 }
               }
             ]
@@ -228,10 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
-    "graph/end-user.md",
+    "graph/John Tukey.md",
     "graph/utilisateur final.md",
+    "graph/end-user.md",
     "graph/Florence Nightingale.md",
     "graph/Interactivité.md",
     "graph/Interactivité.md",
@@ -244,7 +245,6 @@
     "graph/data visualization.md",
     "graph/information visualization.md",
     "graph/Dataviz Project.md",
-    "graph/John Tukey.md",
     "graph/Edward Tufte.md",
     "graph/Charles Joseph Minard.md",
     "William Playfair.md",
