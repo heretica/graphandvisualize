@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "graph/Edward Tufte 1.md",
+                    "file": "graph/Edward Tufte.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Edward Tufte 1"
+                  "title": "Edward Tufte"
                 }
               }
             ]
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5cf079d17fc0a0b",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
-    "graph/Edward Tufte.md",
     "graph/Edward Tufte 1.md",
+    "graph/Edward Tufte.md",
     "graph/utilisateur final.md",
     "graph/end-user.md",
     "graph/John Tukey.md",
