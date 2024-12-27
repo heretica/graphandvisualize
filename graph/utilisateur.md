@@ -1,9 +1,7 @@
 ---
-subclass of:
-  - "[[agent]]"
-part of:
+sous-classe de: "[[agent]]"
+partie de:
   - "[[sociotechnical system]]"
-Wikidata property: used by
-uses: "[[computer interface]]"
+utilise: "[[computer interface]]"
 ---
 #concept
